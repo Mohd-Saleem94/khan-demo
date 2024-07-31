@@ -1,4 +1,4 @@
 # khan-demo
-this is my first repository
+This is my first repository
 <br>
-this change done by mohd saleem
+This change done by Mohd Saleem khan
