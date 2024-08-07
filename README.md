@@ -1,4 +1,4 @@
 
 This is my first repository
 <br>
-This change done by Mohd Saleem khan from nanglamal
+This change done by Mohd Saleem khan
